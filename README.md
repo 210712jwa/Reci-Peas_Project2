@@ -15,7 +15,7 @@ Technologies
   - Selenium
   - Tomcat
 
--Frontend
+- Frontend
   - Angular
   - Bootstrap/Bulma
   - DevOps Pipeline
