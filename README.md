@@ -26,4 +26,3 @@ Authors
 - Nicholas Hailey
 - Santana Chiluisa
 - Sonia Sam
-- Yves Bouele
