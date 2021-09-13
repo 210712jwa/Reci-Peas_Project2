@@ -26,4 +26,4 @@ Authors
 - Nicholas Hailey
 - Santana Chiluisa
 - Sonia Sam
-- Yves Bouele (8 JUnit Tests)
+- Yves Bouele (8 Unit Tests)
